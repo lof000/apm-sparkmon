@@ -1,0 +1,6 @@
+{
+    "spark_console_url":"http://<spark_console_host>:<spark_console_port>",
+    "apm_epa_host":"<apm_epa_host>",
+    "apm_epa_port":"<apm_epa_port>",
+    "polling_seconds":"<polling_time>"
+}
